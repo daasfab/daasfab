@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a 3D indie horror game about the unfathomable unknown that humanity might face when they begin traversing Galaxies in interstellar travel. **Fear The Unknown**
 
-- 🌱 Currently learning **Java and JavaScript to begin learning Web Development with the React framework**
+- 🌱 Currently learning **Java and JavaScript to begin learning Web Dev with React **
 
 - 💬 Ask me anything about **Unity!**
 
