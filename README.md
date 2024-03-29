@@ -1,8 +1,7 @@
 <img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=daasfab.daasfab" />
 
 <h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daulet+Rashidov!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daulet+Rashidov!;"/>
 </h1>
 
 <h3 align="center"> A Passionate Backend Developer based in the UK </h3>
