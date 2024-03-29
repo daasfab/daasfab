@@ -1,4 +1,4 @@
-![image](https://github.com/daasfab/daasfab/assets/95215177/574d0cb4-8048-44a5-9b14-5262e0e0ad91)<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
+<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=daasfab.daasfab" />
 
 <h1 align="center">
   <a href = "https://git.io/typing-svg">
