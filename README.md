@@ -1,10 +1,6 @@
 <img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=daasfab.visitor-badge" />
 
-<h1 align="center">
-  <a href = "https://git.io/typing-svg">
-    <img src = "https://readme-typing-svg.demolab.com/?lines= Hi, I'm Daulet 👋)](https://git.io/typing-svg" />
-  </a>
-</h1>
+<h1 align="center"> Hi, I'm Daulet 👋 </h1>
 
 <h3 align="center">I'm a Passionate Backend Developer based in the UK </h3>
 
