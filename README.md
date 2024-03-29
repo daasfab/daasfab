@@ -1,20 +1,27 @@
-<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=daasfab.visitor-badge" />
+<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=daasfab.daasfab" />
 
-<h1 align="center"> Hi, I'm Daulet 👋 </h1>
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center=true&vCenter=true&width=500height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daulet+Rashidov!;"/>
+  </a>
+</h1>
 
-<h3 align="center">I'm a Passionate Backend Developer based in the UK </h3>
+<h3 align="center"> A Passionate Backend Developer based in the UK </h3>
+
+<br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daasfab" alt="daasfab" /></a> </p>
 
-- 🔭 I’m currently working on a 3D indie horror game about the unfathomable unknown that humanity might face when they begin traversing Galaxies in interstellar travel. **"Fear The Unknown".**
+- 🔭 I’m currently working on a 3D indie horror game **"Eclipsed Apocalypse".**, and a Parking Management System on Python!
 
-- 🌱 Currently learning **Java and JavaScript to begin learning Web Dev with ReactJS**
+- 🌱 Currently learning **Java** & **AWS Cloud Computing**
 
 - 💬 Ask me anything about **Unity!**
 
 - 📫 Contact me by email --> **daulet.ras@gmail.com**
 
-- ⚡ Fun fact --> **I adore Car Videography (visit my Instagram page below to see my work!)**
+- ⚡ Fun fact --> **I LOVE car photography (visit my Instagram page below to see my work!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
