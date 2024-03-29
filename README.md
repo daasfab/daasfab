@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Daulet!</h1>
-<h3 align="center">I'm a Passionate Full-Stack Game Developer from the UK </h3>
+![image](https://github.com/daasfab/daasfab/assets/95215177/574d0cb4-8048-44a5-9b14-5262e0e0ad91)<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
+
+<h1 align="center">
+  <a href = "https://git.io/typing-svg">
+    <img src = "https://readme-typing-svg.demolab.com/?lines= Hi, I'm Daulet 👋)](https://git.io/typing-svg" />
+  </a>
+</h1>
+
+<h3 align="center">I'm a Passionate Backend Developer based in the UK </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daasfab" alt="daasfab" /></a> </p>
 
