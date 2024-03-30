@@ -32,9 +32,10 @@
 
 <style>
     .icon-link {
-        margin-right: 10px;
+        margin-right: 20px; /* Increased margin for more spacing */
         display: inline-block;
         vertical-align: middle;
+        text-decoration: none; /* Remove underline */
     }
 </style>
 
