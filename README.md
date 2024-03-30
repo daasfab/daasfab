@@ -20,10 +20,10 @@
 
 <div align="center">
     <a href="mailto:daulet.ras@gmail.com" class="icon-link">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="40" />
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://linkedin.com/in/dauletr" target="_blank" class="icon-link">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 20px;" />
     </a>
     <a href="https://instagram.com/daasfab_" target="_blank" class="icon-link">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daasfab_" height="40" />
