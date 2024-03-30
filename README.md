@@ -18,15 +18,15 @@
 
 - ⚡ Fun fact --> **I LOVE car photography (visit my Instagram page below to see my work!)**
 
-<div align="center">
-    <a href="mailto:daulet.ras@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="40" style="margin-right: 10px;" />
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+    <a href="mailto:daulet.ras@gmail.com" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="40" />
     </a>
-    <a href="https://linkedin.com/in/dauletr" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" style="margin-right: 10px;" />
+    <a href="https://linkedin.com/in/dauletr" target="_blank" style="margin-right: 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
     </a>
     <a href="https://instagram.com/daasfab_" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daasfab_" height="40" style="vertical-align: middle;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daasfab_" height="40" />
     </a>
 </div>
 
