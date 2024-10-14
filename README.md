@@ -1,6 +1,6 @@
 <img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=daasfab.daasfab" />
 
-<img src="daasfab/daasfab/readMeBinocularsImage.jpg" alt="Banner" style="width:100%;"/>
+<img src="readMeBinocularsImage.jpg" alt="Banner" style="width:100%;"/>
 
 <br>
 
