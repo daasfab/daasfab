@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font-color=orange&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daulet!;"/>
 </h1>
 
-<h3 align="center">A passionate Cyber Security Engineer Kazakhstan KZ</h3>
+<h3 align="center">A passionate Cyber Security Engineer from Kazakhstan KZ</h3>
 
 <br/>
 
@@ -47,7 +47,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🚀 My Contributions 🚀</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/daasfab/daasfab/output/github-contribution-grid-snake.svg" />
   
