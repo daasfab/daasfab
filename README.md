@@ -7,21 +7,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font-color=orange&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daulet!;"/>
 </h1>
 
-<h3 align="center">A passionate Cyber Security Engineer from the UK! 🇬🇧 </h3>
+<h3 align="center">A passionate Software & Security Engineer from KZ! 🇰🇿 </h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **DeepTrace Packet Sniffer**
- 
- 🌱 I’m currently learning **Scapy, .NET, MySQL**
-
-💬 Ask me about the **Notorious Cyber Organizations and Famous Malware Attacks**
-
-⚡ Fun fact **I love Photography & Cinematography!**
-
-</div>
 
 <div align="center"> 
   <a href="mailto:daulet.ras@gmail.com">
